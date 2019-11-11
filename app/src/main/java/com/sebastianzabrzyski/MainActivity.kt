@@ -35,7 +35,8 @@ class MainActivity : BaseActivity(), GetRawData.OnDownloadCompleted,
 
     override fun onItemClick(view: View, position: Int) {
         Log.d(TAG, ".onItemClick: starts")
-        Toast.makeText(this, "Normal tap at position $position", Toast.LENGTH_SHORT).show()
+       // Toast.makeText(this, "Normal tap at position $position", Toast.LENGTH_SHORT).show()
+        onItemLongClick(view, position)
     }
 
     override fun onItemLongClick(view: View, position: Int) {
