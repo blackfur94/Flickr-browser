@@ -1,6 +1,6 @@
 # Flickr browser
 
-Aplikacja na urządzenia mobilne z systemem Android, pozwalająca na wyświetlanie i wyszukiwanie zdjęć w serwisie Flickr za pomocą tagów.
+Aplikacja na urządzenia mobilne z systemem Android, pozwalająca na wyświetlanie i wyszukiwanie zdjęć z serwisu Flickr za pomocą tagów.
 
 # Wykorzystane technologie i biblioteki:
 
